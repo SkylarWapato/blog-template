@@ -5,7 +5,7 @@
     "@skywap/metalsmith-amp-layouts": "^1.0.5",
     "clean-css": "^4.2.3",
     "cuid": "^2.1.8",
-    "handlebars": "^4.0.5",
+    "handlebars": "^4.7.7",
     "metalsmith": "^2.1.0",
     "metalsmith-autoprefixer": "^1.1.2",
     "metalsmith-canonical": "^1.2.0",
